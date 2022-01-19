@@ -64,6 +64,7 @@ body{
     background-color: #e6e7e731;
     border: 1px solid rgb(3, 37, 76);
     box-shadow: 2px 2px 15px rgb(3, 37, 76);
+    margin-bottom: 6rem;
 }
 .formDesign{
     width: 80%;
@@ -161,6 +162,7 @@ body{
 .SubmitBut{
     width: 10rem;
     margin: auto;
+    padding-bottom: 2rem;
 }
 .formBox{
     position: relative;
