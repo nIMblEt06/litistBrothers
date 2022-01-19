@@ -11,7 +11,7 @@
     justify-content: space-between;
     padding: 15px 18px;
     background-color: rgb(55 58 53);
-    box-shadow: 4px 4px 4px rgba(50, 53, 46, 0.596);
+    box-shadow:0.01px 5px 8px rgb(50 53 46 / 60%);
     
 }
 #navbar section{
@@ -212,6 +212,7 @@ body{
     font-size: 1.3rem;
     margin-bottom: 1rem;
     text-decoration: underline;
+    padding-top: 1rem;
 }
 #popUp p{
     margin-bottom: 3rem;
